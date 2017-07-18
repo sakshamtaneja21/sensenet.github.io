@@ -3,7 +3,7 @@ title:  "How to define a workflow"
 source_url: 'https://github.com/SenseNet/sensenet.github.io/blob/master/_docs/tutorials/how-to-define-a-workflow.md'
 category: Tutorials
 version: v6.0
-tags: [workflow, sn6, sn7, backend]
+tags: [workflow, activity, xaml, sn6, sn7, backend]
 ---
 
 # How to define a workflow
